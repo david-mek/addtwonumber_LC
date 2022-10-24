@@ -1,0 +1,5 @@
+# Compile Command 
+g++ -std=c++1z -Wconversion -Wall -Werror -Wextra -pedantic  -g3 addtwonumbers.cpp -o addtwonumbers
+
+# Run Command
+./addtwonumbers
